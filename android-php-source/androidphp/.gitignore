@@ -1,0 +1,16 @@
+.project/
+.settings/
+.idea/
+*.iml
+classes/
+*.class
+
+*/bin
+*/gen
+*/assets
+
+server/dat
+server/tpl/*/cache
+server/tpl/*/template_c
+
+.DS_Store
